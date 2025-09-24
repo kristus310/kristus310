@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Nabil%20Thange&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Google&descAlignY=58&descAlign=50" alt="Header Capsule"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kristián%20Botek&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%7C%20Netvia&descAlignY=58&descAlign=50" alt="Header Capsule"/>
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td align="center" style="padding: 20px; border-radius: 15px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Your%20tagline;I%20aspire%20to%20achieve%20financial%20freedom%20so%20I%20can%20travel%20the%20world%20and%20experience%20different%20cultures." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Coding.%20Cybersecurity.%20Networking." alt="Typing SVG" />
       </td>
     </tr>
   </table>
