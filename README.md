@@ -84,25 +84,36 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Frontend-6C63FF?style=for-the-badge&logoColor=white"/>
       <br/>
-      <sub>[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,tailwindcss)](https://skillicons.dev)</sub>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,react,bootstrap,tailwindcss" height="30"/>
+      </a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Backend-FF6B6B?style=for-the-badge&logoColor=white"/>
       <br/>
-      <sub>[![My Skills](https://skillicons.dev/icons?i=python,go,flask)](https://skillicons.dev)</sub>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,go,flask" height="30"/>
+      </a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Database-4ECDC4?style=for-the-badge&logoColor=white"/>
       <br/>
-      <sub>[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)</sub>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=sqlite,mysql" height="30"/>
+      </a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Tools-45B7D1?style=for-the-badge&logoColor=white"/>
       <br/>
-      <sub>Linux, Windows, Poweshell, Git, GitHub, IntelliJ, VS Code, CI/CD</sub>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" height="30"/>
+      </a>
+      <br/>
+      <sub>+ Windows, PowerShell, IntelliJ, CI/CD</sub>
     </td>
   </tr>
 </table>
+
 
 </div>
 
