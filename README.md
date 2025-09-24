@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td align="center" style="padding: 20px; border-radius: 15px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Student%0ACoding.%20Cybersecurity.%20Networking." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Coding.%20Cybersecurity.%20Networking. Hardware." alt="Typing SVG" />
       </td>
     </tr>
   </table>
