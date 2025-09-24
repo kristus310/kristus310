@@ -108,8 +108,6 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" height="30"/>
       </a>
-      <br/>
-      <sub>+ Windows, PowerShell, IntelliJ, CI/CD</sub>
     </td>
   </tr>
 </table>
