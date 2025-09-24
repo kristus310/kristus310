@@ -1,13 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kristián%20Botek&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%7C%20Netvia&descAlignY=58&descAlign=50" alt="Header Capsule"/>
 </div>
-
 <div align="center">
   <!-- Glassmorphism Profile Card (effect limited on GitHub) -->
   <table>
     <tr>
       <td align="center" style="padding: 20px; border-radius: 15px;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Student.%20Junior%20Dev.;Coding.%20Cybersecurity.%20Networking.%20Hardware." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=24&duration=4000&pause=500&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Student,%20Junior%20Dev.;Coding.%20Cybersecurity.%20Networking.%20Hardware." alt="Typing SVG" />
       </td>
     </tr>
   </table>
