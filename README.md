@@ -1,12 +1,40 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kristián Botek&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student & Junior Developer%20%7C%20Netvia s.r.o.&descAlignY=58&descAlign=50"/>
+</div>
 
-# 🏯 **DOJO OF CODE** 🏯
-## 🥋 **Sensei Kristián Botek** - Master of Digital Arts 🥋
-### ⚔️ Student & Junior Developer @ Netvia s.r.o. | 🌸 Žatec, Czechia
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=28&duration=4000&pause=1500&color=C9A961&center=true&vCenter=true&multiline=true&width=800&height=120&lines=道+Path+of+the+Code+Warrior;Discipline+%E2%80%A2+Precision+%E2%80%A2+Commit;'It may seem difficult at first, but all things are difficult at first.' - Miyamoto Musashi" alt="Dojo Mantra" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&secondColor=16213E&height=120&section=header&text=⛩️&fontSize=60&fontColor=C9A961&animation=twinkling"/>
+<div align="center">
+  
+  <!-- Glassmorphism Profile Card -->
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=[Your tagline];[Your motivation]" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <!-- Clean Social Links -->
+  <a href="mailto:botek.kristian@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white&labelColor=transparent" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kristus310/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white&labelColor=transparent" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/kristus310">
+    <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=flat-square&logo=linkedin&logoColor=white&labelColor=transparent" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kristus310">
+    <img src="https://img.shields.io/badge/GitHub-45B7D1?style=flat-square&logo=github&logoColor=white&labelColor=transparent" alt="GitHub"/>
+  </a>
+  
+  <br/><br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=kristus310&color=6C63FF&style=flat-square&label=visitors)
 
 </div>
 
@@ -14,44 +42,32 @@
 
 <div align="center">
 
-## 🧘‍♂️ **DEVELOPER MANTRA** 🧘‍♂️
-*"Constantly expand your knowledge and your capabilities, don't stray away from the path, while remaining humble."*
+## ✨ About Me
 
-### 🌅 **Current Path**
-```yaml
-道 Way: Student and junior developer exploring coding, cybersecurity, and networking
-修行 Training: Assembly programming, advanced web-technologies
-段 Rank: Junior level Dan
-流派 School: Hey! I’m an 18-year-old student who loves coding, cybersecurity, and tinkering with hardware and networks. When I’m not in front of a screen, you’ll find me playing electric guitar, skateboarding around, listening to music, or working out. Curious, determined, and always learning!
-```
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kristus310&theme=tokyonight&hide_border=true&background=0F3460&ring=C9A961&fire=E17055&currStreakLabel=C9A961&sideLabels=C9A961" width="500"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚔️ **SKILL SCROLLS** ⚔️
-### *Ancient Techniques Mastered*
-
-<table align="center">
-<tr>
-<td align="center">
-
-### 📜 **Weapon Mastery**
-<img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,tailwindcss,python,go,flask,sqlite,mysql,aws,docker,githubactions,linux,ubuntu,reactnative,pandas,numpy,git,github,vscode,vim,discord)](https://skillicons.dev)&theme=dark&perline=6" />
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=kristus310&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=FF6B6B&text_color=4A4A4A&bg_color=00000000" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <div style="text-align: left; padding: 20px;">
+        <p><strong>📍 Location:</strong> Žatec, Czechia</p>
+        <p><strong>🏢 Company:</strong> Netvia s.r.o.</p>
+        <p><strong>💼 Role:</strong> Student & Junior Developer</p>
+        <p><strong>🌱 Learning:</strong> Assembly programming, advanced web-technologies</p>
+        <p><strong>🎯 Goal:</strong> To continuously learn and develop practical skills that prepare me for real-world jobs</p>
+        <p><strong>⚡ Fun fact:</strong> I own a replica of a Star Wars lightsaber!</p>
+      </div>
+    </td>
+  </tr>
 </table>
 
-### 🥋 **Belt Progression System**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristus310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F3460&title_color=C9A961&text_color=C9A961&icon_color=E17055" width="500"/>
+</div>
 
-### ⚡ **Combat Analytics**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kristus310&theme=tokyo_night" width="650"/>
+<div align="center">
+
+### 💭 Bio
+*Hey! I’m an 18-year-old student who loves coding, cybersecurity, and tinkering with hardware and networks. When I’m not in front of a screen, you’ll find me playing electric guitar, playing chess, skateboarding around, listening to music, or working out. Curious, determined, and always learning!*
 
 </div>
 
@@ -59,60 +75,37 @@
 
 <div align="center">
 
-## 🪨 **PROJECT COMBAT MISSIONS** 🪨
-### *Legendary Battles Fought & Won*
+## 🛠️ Tech Stack
 
-<table align="center" style="border-collapse: separate; border-spacing: 20px;">
-<tr>
-<td align="center" width="30%" style="border: 2px solid #C9A961; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
+<!-- Language Stats -->
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristus310&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=4A4A4A&bg_color=00000000" alt="Top Languages"/>
 
-### ⚔️ **Mission Alpha**
-**CScan Port-scanner**  
-*Difficulty: 🗡️ Hardcore*
+<br/><br/>
 
-A simple port scanner made in C, inspired by Nmap.
-
-**🥋 Techniques Used:**  
-`[Your project1Tech]`
-
-<a href="https://github.com/kristus310/cscan-portscanner">
-<img src="https://img.shields.io/badge/Enter%20Dojo-C9A961?style=for-the-badge&logo=torii-gate&logoColor=0F3460"/>
-</a>
-
-</td>
-<td align="center" width="30%" style="border: 2px solid #E17055; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
-
-### ⚔️ **Mission Beta**
-**Restaurace Kapitán - Website**  
-*Difficulty: 🥋 Master*
-
-A restaurant website built for Restaurace Kapitán, located in the historic city of Žatec, Czech Republic. This modern, responsive website showcases the restaurant's menu, atmosphere, and provides online reservation functionality.
-
-**🥋 Techniques Used:**  
-`[Your project2Tech]`
-
-<a href="https://restaurace-kapitan.cz">
-<img src="https://img.shields.io/badge/Enter%20Dojo-E17055?style=for-the-badge&logo=torii-gate&logoColor=white"/>
-</a>
-
-</td>
-<td align="center" width="30%" style="border: 2px solid #5F8A8B; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
-
-### ⚔️ **Mission Gamma**
-**Weather station - Fullstack**  
-*Difficulty: 🏯 Sensei*
-
-A homemade full-stack weather station, made with Raspberry Pi Pico + DHT11 sensor coded in C++, my own Python server hosted on RPi Zero 2W and web interface.
-
-**🥋 Techniques Used:**  
-`[Your project3Tech]`
-
-<a href="https://github.com/kristus310/weather-station-fullstack">
-<img src="https://img.shields.io/badge/Enter%20Dojo-5F8A8B?style=for-the-badge&logo=torii-gate&logoColor=white"/>
-</a>
-
-</td>
-</tr>
+<!-- Skills Grid -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Frontend-6C63FF?style=for-the-badge&logoColor=white"/>
+      <br/>
+      <sub>[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,tailwindcss)](https://skillicons.dev)</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Backend-FF6B6B?style=for-the-badge&logoColor=white"/>
+      <br/>
+      <sub>[![My Skills](https://skillicons.dev/icons?i=python,go,flask)](https://skillicons.dev)</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Database-4ECDC4?style=for-the-badge&logoColor=white"/>
+      <br/>
+      <sub>[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tools-45B7D1?style=for-the-badge&logoColor=white"/>
+      <br/>
+      <sub>Git, GitHub, IntelliJ, VS Code, Vim, Discord, CI/CD</sub>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -121,31 +114,53 @@ A homemade full-stack weather station, made with Raspberry Pi Pico + DHT11 senso
 
 <div align="center">
 
-## 🏆 **HALL OF HONOR** 🏆
-### *Sacred Achievements*
+## 🚀 Current Projects
 
-<table align="center">
-<tr>
-<td align="center">
-
-🥇 **Built a website for a restaurant in my home town**
-
-</td>
-<td align="center">
-
-🥈 **Landed a part-time job at 17-years-old**
-
-</td>
-<td align="center">
-
-🥉 **Never stopped learning**
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <div style="min-height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
+        <h3>CScan Port-scanner</h3>
+        <p><sub>A simple port scanner made in C, inspired by Nmap.</sub></p>
+        <a href="https://github.com/kristus310/cscan-portscanner">
+          <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td align="center" width="33%">
+      <div style="min-height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
+        <h3>Restaurace Kapitán - Website</h3>
+        <p><sub>A restaurant website built for Restaurace Kapitán, located in the historic city of Žatec, Czech Republic. This modern, responsive website showcases the restaurant's menu, atmosphere, and provides online reservation functionality.</sub></p>
+        <a href="https://restaurace-kapitan.cz">
+          <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td align="center" width="33%">
+      <div style="min-height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
+        <h3>Weather station - Fullstack</h3>
+        <p><sub>A homemade full-stack weather station, made with Raspberry Pi Pico + DHT11 sensor coded in C++, my own Python server hosted on RPi Zero 2W and web interface.</sub></p>
+        <a href="https://github.com/kristus310/weather-station-fullstack">
+          <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
-### 📊 **Dojo Training Progress**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kristus310&bg_color=0F3460&color=C9A961&line=E17055&point=C9A961&area=true&hide_border=true&custom_title=Path%20of%20Continuous%20Improvement" width="700"/>
+</div>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kristus310&theme=transparent&hide_border=true&stroke=6C63FF&ring=FF6B6B&fire=4ECDC4&currStreakLabel=6C63FF&background=00000000" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kristus310&theme=minimal&hide_border=true&bg_color=00000000&color=6C63FF&line=FF6B6B&point=4ECDC4&area=true&area_color=6C63FF" alt="Contribution Graph"/>
 
 </div>
 
@@ -153,18 +168,27 @@ A homemade full-stack weather station, made with Raspberry Pi Pico + DHT11 senso
 
 <div align="center">
 
-## 🌸 **MEDITATION CHAMBER** 🌸
-### *Daily Practice & Focus*
+## 🎨 Interests & Hobbies
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=24&duration=5000&pause=2000&color=C9A961&center=true&vCenter=true&width=700&lines=Focus+on+the+Present+Commit;Empty+Your+Mind%2C+Fill+Your+Repository;The+Way+of+Clean+Code" alt="Meditation" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Coding & Cybesecurity-6C63FF?style=flat-square&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hardware & Networking-FF6B6B?style=flat-square&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Reverse Engineering-4ECDC4?style=flat-square&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tech education-45B7D1?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-### 🧘‍♂️ **Current Meditation Focus**
-```yaml
-今日の修行 (Today's Training): Assembly programming, advanced web-technologies
-心 (Mind): Clear and Focused  
-体 (Body): Ready for Coding Marathons
-魂 (Spirit): Driven by Clean Architecture
-```
+### 🌟 Philosophy
+> "Constantly expand your knowledge and your capabilities, don't stray away from the path, while remaining humble."
 
 </div>
 
@@ -172,31 +196,43 @@ A homemade full-stack weather station, made with Raspberry Pi Pico + DHT11 senso
 
 <div align="center">
 
-## 🏯 **TEMPLE GATES** 🏯
-### *Connect with the Sensei*
+## 📫 Let's Connect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=22&duration=4500&pause=1000&color=E17055&center=true&vCenter=true&width=650&lines=Ready+to+Begin+Your+Training%3F;The+Dojo+Doors+Are+Always+Open;師父+is+Ready+to+Guide+You" alt="Contact Invitation" />
+<br/>
 
-<p align="center">
-<a href="https://linkedin.com/in/kristianbotek">
-<img src="https://img.shields.io/badge/🧘‍♂️%20LinkedIn%20Dojo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C9A961"/>
-</a>
-<a href="https://twitter.com/[Your twitter]">
-<img src="https://img.shields.io/badge/🐦%20Twitter%20Scrolls-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=E17055"/>
-</a>
-<a href="[Your portfolio]">
-<img src="https://img.shields.io/badge/⛩️%20Sacred%20Portfolio-C9A961?style=for-the-badge&logo=safari&logoColor=0F3460"/>
-</a>
-<a href="mailto:botek.kristian@gmail.com">
-<img src="https://img.shields.io/badge/📮%20Temple%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5F8A8B"/>
-</a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:botek.kristian@gmail.com">
+        <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kristus310/">
+        <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/kristus310">
+        <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="[Your socialLink]">
+        <img src="https://img.shields.io/badge/[Your socialPlatform]-45B7D1?style=for-the-badge&logo=[Your socialLogo]&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🧘‍♂️ **Temple Visitor Counter**
-<img src="https://komarev.com/ghpvc/?username=kristus310&label=Enlightened%20Souls&color=C9A961&style=for-the-badge&logo=temple" />
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&secondColor=16213E&height=120&section=footer&text=⛩️&fontSize=60&fontColor=C9A961&animation=fadeIn"/>
+### 💡 Open to opportunities in: Software engineer, Cybersecurity, Networking roles
 
-**"The code that is not tested is not code at all"** - Ancient Dojo Wisdom 🥋
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=18&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+✨;Let's+create+something+amazing+together!+🚀;Always+happy+to+connect+and+collaborate!+💫" alt="Footer Message"/>
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 </div>
