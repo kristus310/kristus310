@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kristián Botek&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20%26%20Junior%20Developer&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kristi%C3%A1n%20Botek&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20%26%20Junior%20Developer&descAlignY=58&descAlign=50"/>
 </div>
 
 <div align="center">
-  
-  <!-- Glassmorphism Profile Card -->
+  <!-- Glassmorphism Profile Card (effect limited on GitHub) -->
   <table>
     <tr>
-      <td align="center" style="padding: 20px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=[Your tagline];I aspire to achieve financial freedom so I can travel the world and experience different cultures." alt="Typing SVG" />
+      <td align="center" style="padding: 20px; border-radius: 15px;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Your%20tagline;I%20aspire%20to%20achieve%20financial%20freedom%20so%20I%20can%20travel%20the%20world%20and%20experience%20different%20cultures." alt="Typing SVG" />
       </td>
     </tr>
   </table>
