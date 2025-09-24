@@ -204,13 +204,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/kristus310/">
-        <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
+      <a href="https://linkedin.com/in/kristianbotek">
+        <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/kristianbotek">
-        <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <a href="https://github.com/kristus310/">
+        <img src="https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
       </a>
     </td>
   </tr>
