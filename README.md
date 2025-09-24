@@ -20,11 +20,7 @@
     <img src="https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white&labelColor=transparent" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/kristus310/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white&labelColor=transparent" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/kristus310">
+  <a href="https://linkedin.com/in/kristianbotek">
     <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=flat-square&logo=linkedin&logoColor=white&labelColor=transparent" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
@@ -52,10 +48,10 @@
     <td align="center" width="50%">
       <div style="text-align: left; padding: 20px;">
         <p><strong>📍 Location:</strong> Žatec, Czechia</p>
-        <p><strong>🏢 Workint at:</strong> Netvia s.r.o.</p>
+        <p><strong>🏢 Working at:</strong> Netvia s.r.o.</p>
         <p><strong>💼 Role:</strong> Student & Junior Developer.</p>
         <p><strong>🌱 Learning currently:</strong> Assembly programming, advanced web-technologies.</p>
-        <p><strong>🎯 Goal:</strong> To continuously learn and develop practical skills that prepare me for real-world jobs.</p>
+        <p><strong>🎯 Main Goal:</strong> To continuously learn and develop practical skills that prepare me for real-world jobs.</p>
         <p><strong>⚡ Fun fact:</strong> I own a replica of a Star Wars lightsaber!</p>
       </div>
     </td>
