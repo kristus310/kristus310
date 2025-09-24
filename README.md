@@ -178,7 +178,7 @@
       <img src="https://img.shields.io/badge/Chess & Music-4ECDC4?style=flat-square&logoColor=white"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Skateboard & Working-out-45B7D1?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Skateboard & Working out-45B7D1?style=flat-square&logoColor=white"/>
     </td>
   </tr>
 </table>
