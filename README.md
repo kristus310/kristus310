@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=300&amp;section=header&amp;text=Nabil Thange&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full Stack Developer%20%7C%20Google&amp;descAlignY=58&amp;descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Nabil%20Thange&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Google&descAlignY=58&descAlign=50" alt="Header Capsule"/>
 </div>
 
 <div align="center">
@@ -30,8 +30,8 @@
   <br/><br/>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=kristus310&color=6C63FF&style=flat-square&label=visitors)
-
 </div>
+
 
 ---
 
