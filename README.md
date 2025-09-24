@@ -4,7 +4,7 @@
 ## 🥋 **Sensei Kristián Botek** - Master of Digital Arts 🥋
 ### ⚔️ Student & Junior Developer @ Netvia s.r.o. | 🌸 Žatec, Czechia
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=28&duration=4000&pause=1500&color=C9A961&center=true&vCenter=true&multiline=true&width=800&height=120&lines=道+Path+of+the+Code+Warrior;Discipline+%E2%80%A2+Precision+%E2%80%A2+Commit;"It may seem difficult at first, but all things are difficult at first." - Miyamoto Musashi" alt="Dojo Mantra" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=28&duration=4000&pause=1500&color=C9A961&center=true&vCenter=true&multiline=true&width=800&height=120&lines=道+Path+of+the+Code+Warrior;Discipline+%E2%80%A2+Precision+%E2%80%A2+Commit;'It may seem difficult at first, but all things are difficult at first.' - Miyamoto Musashi" alt="Dojo Mantra" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&secondColor=16213E&height=120&section=header&text=⛩️&fontSize=60&fontColor=C9A961&animation=twinkling"/>
 
