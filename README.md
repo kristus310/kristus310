@@ -52,9 +52,9 @@
     <td align="center" width="50%">
       <div style="text-align: left; padding: 20px;">
         <p><strong>📍 Location:</strong> Žatec, Czechia</p>
-        <p><strong>🏢 Company:</strong> Netvia s.r.o.</p>
-        <p><strong>💼 Role:</strong> Student & Junior Developer</p>
-        <p><strong>🌱 Learning:</strong> Assembly programming, advanced web-technologies</p>
+        <p><strong>🏢 Workint at:</strong> Netvia s.r.o.</p>
+        <p><strong>💼 Role:</strong> Student & Junior Developer.</p>
+        <p><strong>🌱 Learning currently:</strong> Assembly programming, advanced web-technologies.</p>
         <p><strong>🎯 Goal:</strong> To continuously learn and develop practical skills that prepare me for real-world jobs.</p>
         <p><strong>⚡ Fun fact:</strong> I own a replica of a Star Wars lightsaber!</p>
       </div>
@@ -103,7 +103,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Tools-45B7D1?style=for-the-badge&logoColor=white"/>
       <br/>
-      <sub>Git, GitHub, IntelliJ, VS Code, Vim, Discord, CI/CD</sub>
+      <sub>Linux, Windows, Poweshell, Git, GitHub, IntelliJ, VS Code, CI/CD</sub>
     </td>
   </tr>
 </table>
@@ -121,7 +121,7 @@
     <td align="center" width="33%">
       <div style="min-height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
         <h3>CScan Port-scanner</h3>
-        <p><sub>A simple port scanner made in C, inspired by Nmap.</sub></p>
+        <p><sub>A simple port scanner made in C, inspired by a hacking tool Nmap. It was made for deeper understanding of the tool.</sub></p>
         <a href="https://github.com/kristus310/cscan-portscanner">
           <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=flat-square&logo=github&logoColor=white"/>
         </a>
@@ -130,7 +130,7 @@
     <td align="center" width="33%">
       <div style="min-height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
         <h3>Restaurace Kapitán - Website</h3>
-        <p><sub>A restaurant website built for Restaurace Kapitán, located in the historic city of Žatec, Czech Republic. This modern, responsive website showcases the restaurant's menu, atmosphere, and provides online reservation functionality.</sub></p>
+        <p><sub>A restaurant website built for Restaurace Kapitán, located in the historic city of Žatec, Czech Republic.</sub></p>
         <a href="https://restaurace-kapitan.cz">
           <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=flat-square&logo=github&logoColor=white"/>
         </a>
@@ -179,10 +179,10 @@
       <img src="https://img.shields.io/badge/Hardware & Networking-FF6B6B?style=flat-square&logoColor=white"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Reverse Engineering-4ECDC4?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Chess & Music-4ECDC4?style=flat-square&logoColor=white"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Tech education-45B7D1?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Skateboard & Working-out-45B7D1?style=flat-square&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -213,13 +213,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/kristus310">
+      <a href="https://linkedin.com/in/kristianbotek">
         <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="[Your socialLink]">
-        <img src="https://img.shields.io/badge/[Your socialPlatform]-45B7D1?style=for-the-badge&logo=[Your socialLogo]&logoColor=white"/>
       </a>
     </td>
   </tr>
