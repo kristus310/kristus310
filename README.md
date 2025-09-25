@@ -83,21 +83,21 @@
       <img src="https://img.shields.io/badge/Languages-6C63FF?style=for-the-badge&logoColor=white"/>
       <br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,cs,html,css,js,react,bash,powershell&perline=8" height="30"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,cs,html,css,js,react,bash,powershell&perline=6" height="60"/>
       </a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Database-4ECDC4?style=for-the-badge&logoColor=white"/>
       <br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=sqlite,mysql" height="30"/>
+        <img src="https://skillicons.dev/icons?i=sqlite,mysql" height="60"/>
       </a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Tools-45B7D1?style=for-the-badge&logoColor=white"/>
       <br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,git,github,docker,raspberrypi,arduino" height="30"/>
+        <img src="https://skillicons.dev/icons?i=linux,git,github,docker,raspberrypi,arduino" height="60"/>
       </a>
     </td>
   </tr>
