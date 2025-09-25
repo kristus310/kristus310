@@ -97,7 +97,7 @@
       <img src="https://img.shields.io/badge/Tools-45B7D1?style=for-the-badge&logoColor=white"/>
       <br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,git,github,docker,raspberrpi,arduino" height="30"/>
+        <img src="https://skillicons.dev/icons?i=linux,git,github,docker,raspberrypi,arduino" height="30"/>
       </a>
     </td>
   </tr>
