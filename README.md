@@ -83,7 +83,7 @@
       <img src="https://img.shields.io/badge/Languages-6C63FF?style=for-the-badge&logoColor=white"/>
       <br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,cs,html,css,js,react,bash,powershell&perline=6" height="30"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,cs,html,css,js,react,bash,powershell&perline=3" height="30"/>
       </a>
     </td>
     <td align="center">
