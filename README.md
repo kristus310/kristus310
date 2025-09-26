@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kristián%20Botek&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%7C%20Netvia&descAlignY=58&descAlign=50" alt="Header Capsule"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kristián%20Botek&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer&descAlignY=58&descAlign=50" alt="Header Capsule"/>
 </div>
 <div align="center">
   <!-- Glassmorphism Profile Card (effect limited on GitHub) -->
