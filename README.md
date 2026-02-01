@@ -46,7 +46,6 @@
     <td align="center" width="50%">
       <div style="text-align: left; padding: 20px;">
         <p><strong>📍 Location:</strong> Žatec, Czechia</p>
-        <p><strong>🏢 Working at:</strong> Netvia s.r.o.</p>
         <p><strong>💼 Role:</strong> Student & Junior Developer.</p>
         <p><strong>🌱 Learning currently:</strong> Assembly programming, advanced web-technologies.</p>
         <p><strong>🎯 Main Goal:</strong> To continuously learn and develop practical skills that prepare me for real-world jobs.</p>
