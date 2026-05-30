@@ -29,11 +29,14 @@ Implemented UI/UX designs into responsive web applications. Later focused on API
 **[falsetto](https://github.com/kristus310/falsetto)**  
 A passino project of mine, lyrics guessing game built with Django, integrating the LastFM API. Handles external API communication, session state, and a clean web interface.
 
+**[restaurace-kapitan.cz](https://restaurace-kapitan.cz)**  
+Full-stack website built for a real restaurant in Žatec. Developed from client brief to deployment, with ongoing hosting and maintenance responsibility.
+
 **[cscan-portscanner](https://github.com/kristus310/cscan-portscanner)**  
 Lightweight port scanner written in C, inspired by Nmap. Built to understand raw socket programming and network scanning at a low level.
 
-**[restaurace-kapitan.cz](https://restaurace-kapitan.cz)**  
-Full-stack website built for a real restaurant in Žatec. Developed from client brief to deployment, with ongoing hosting and maintenance responsibility.
+**[baremetal-x86](https://github.com/kristus310/BareMetal-x86)**  
+Minimalist x86 bootloader and assembly environment. Pure bare-metal, BIOS-based. Work in progress. Made for learning Assembly and low-code more deeply.
 
 ---
 
