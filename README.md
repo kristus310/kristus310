@@ -1,22 +1,58 @@
-# kristus310
+# Kristián Botek
 
-Student & junior developer from Czechia. I love cybersecurity, networking, hardware and coding.
+**Junior Network & Security Specialist · IT Student · Žatec, Czech Republic**
 
-## projects
+IT student at SPŠE Žatec with a focus on cybersecurity, network administration, and full-stack development. I run a home lab where I host web servers, a NAS, and a honeypot, it's where most of my practical learning happens. I work across the stack, from low-level C to front-end interfaces, and I care about understanding infrastructure from the ground up.
 
-| project | description |
-|---|---|
-| [cscan-portscanner](https://github.com/kristus310/cscan-portscanner) | Simple port scanner in C, inspired by Nmap |
-| [falsetto](https://github.com/kristus310/falsetto) | Guess the lyrics app made in Django, using external APIs like LastFM |
-| [restaurace-kapitan.cz](https://restaurace-kapitan.cz) | Restaurant website for a real local place in Žatec |
+- botek.kristian@gmail.com
 
 ---
 
-## stack
+## Experience
 
-`C` `C++` `Go` `Python` `Java` `C#` `JavaScript` `React` `HTML/CSS` `Bash`  
-`Linux` `Git` `Docker` `Raspberry Pi` `Arduino` · `SQLite` `MySQL`
+**Front-end Developer** - Netvia s.r.o. *(September 2025 – Present)*  
+Translating UI/UX designs into fully functional, responsive websites.
+
+**Fullstack Developer & Web Administrator** - Kapitán Restaurant and Hotel, Žatec *(June 2025 – Present)*  
+Developed the full front-end and back-end based on client requirements. Currently responsible for hosting and ongoing maintenance.
+
+**IT Infrastructure Administrator** - Kapitán Restaurant and Hotel, Žatec *(June 2025 – Present)*  
+Full deployment of POS systems, printers, and workstations. Manages and maintains the entire network infrastructure on-site.
+
+**Academic Internship** - Netvia s.r.o. *(May – June 2025)*  
+Implemented UI/UX designs into responsive web applications. Later focused on API testing using Python.
 
 ---
 
-> *"Constantly expand your knowledge and capabilities, don't stray away from the path, while remaining humble."*
+## Projects
+
+**[falsetto](https://github.com/kristus310/falsetto)**  
+A passino project of mine, lyrics guessing game built with Django, integrating the LastFM API. Handles external API communication, session state, and a clean web interface.
+
+**[cscan-portscanner](https://github.com/kristus310/cscan-portscanner)**  
+Lightweight port scanner written in C, inspired by Nmap. Built to understand raw socket programming and network scanning at a low level.
+
+**[restaurace-kapitan.cz](https://restaurace-kapitan.cz)**  
+Full-stack website built for a real restaurant in Žatec. Developed from client brief to deployment, with ongoing hosting and maintenance responsibility.
+
+---
+
+## Skills
+
+**Programming**  
+C/C++, Python (Django), Go, Java - advanced  
+Bash, C#, SQL, JavaScript (React) - working knowledge
+
+**Cybersecurity**  
+Nmap, Wireshark, Metasploit, Burp Suite, Gobuster  
+Active on HackTheBox and TryHackMe · traffic and malware analysis
+
+**Networking & Hardware**  
+TCP/IP, DNS, DHCP, VPN, VLAN · network device configuration  
+Cable termination, soldering, hardware diagnostics
+
+**Systems & Tools**  
+Linux (advanced), Git, Docker, CI/CD, virtualization · Raspberry Pi, ESP32
+
+**Languages**  
+Czech - native · English - B2/C1
