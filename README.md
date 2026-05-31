@@ -26,8 +26,8 @@ IT student at SPŠE Žatec with a focus on cybersecurity, network administration
 
 ## Projects
 
-**[falsetto](https://github.com/kristus310/falsetto)**  
-- A passino project of mine, lyrics guessing game built with Django, integrating the LastFM API. Handles external API communication, session state, and a clean web interface.
+- **[falsetto](https://github.com/kristus310/falsetto)**  
+A passino project of mine, lyrics guessing game built with Django, integrating the LastFM API. Handles external API communication, session state, and a clean web interface.
 
 **[restaurace-kapitan.cz](https://restaurace-kapitan.cz)**  
 - Full-stack website built for a real restaurant in Žatec. Developed from client brief to deployment, with ongoing hosting and maintenance responsibility.
@@ -65,5 +65,7 @@ Cable termination, soldering, hardware diagnostics
 Linux (advanced), Git, Docker, CI/CD, virtualization · Raspberry Pi, ESP32
 ```
 
-**Languages**  
+**Languages**
+```
 - Czech - native · English - B2/C1
+```
