@@ -1,6 +1,6 @@
 # Kristián Botek
 
-**Junior Network & Security Specialist · IT Student · Žatec, Czech Republic**
+**Junior Network & Security Specialist - IT Student - Czech Republic**
 
 IT student at SPŠE Žatec with a focus on cybersecurity, network administration, and full-stack development. I run a home lab where I host web servers, a NAS, and a honeypot, it's where most of my practical learning happens. I work across the stack, from low-level C to front-end interfaces, and I care about understanding infrastructure from the ground up.
 
